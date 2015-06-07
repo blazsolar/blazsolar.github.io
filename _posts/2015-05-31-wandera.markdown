@@ -1,0 +1,9 @@
+---
+layout: default
+img: wandera.png
+category: Projects
+title: Wandera
+description: |
+---
+  Secure Mobile Gateway pioneer. Mobile threat prevention and data usage optimization with real-time analytics. On device and in the cloud. Gartner Cool Vendor.
+  [wandera.com](http://wandera.com)

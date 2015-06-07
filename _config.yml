@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://blazsolar.github.com
+title: Blaž Šolar
+email: solarblaz@gmail.com
+author: Blaž Šolar
+description: > # "Write an awesome description for your new site here. 
+  You can edit this line in _config.yml. It will appear in your document 
+  head meta (for Google search results) and in your feed.xml site 
+  description."
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/solarb
+  - title: github
+    url: https://github.com/blazsolar
+  - title: linkedin
+    url: https://si.linkedin.com/pub/blaž-šolar/40/766/59a
