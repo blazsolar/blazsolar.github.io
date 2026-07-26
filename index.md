@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Your Name
+# Blaž Šolar
 ### Mobile Architect & Former CTO / Founder
 
 Translating ambitious product visions into sustainable technical architectures—specializing in resilient mobile systems, client-side security, and bridging executive strategy with engineering execution.
